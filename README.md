@@ -1,15 +1,15 @@
 wikipedia-analysis-toolkit
 ==========================
 
-This is a collection of Python and Matlab scripts, that are geared to simplify the analysis of wikipedia dumps (preperation for SNAP analysis and plots with Matlab)
-Resources:
-Wikipedia dump files: http://dumps.wikimedia.org/backup-index.html
-SNAP: http://snap.stanford.edu/
-NGrams: http://books.google.com/ngrams
+This is a collection of Python and Matlab scripts, that are geared to simplify the analysis of wikipedia dumps (preperation for SNAP analysis and plots with Matlab)  
+Resources:  
+* Wikipedia dump files: http://dumps.wikimedia.org/backup-index.html
+* SNAP: http://snap.stanford.edu/
+* NGrams: http://books.google.com/ngrams
 
-Included will be:
+#Included will be:
 
-# Parsers
+## Parsers
 1. Pagelinks
 2. Pages
 3. Redirects
@@ -17,7 +17,7 @@ Included will be:
 5. Accesslogs
 6. 1 and 2Gram 
 
-# Matlab Plotters
+## Matlab Plotters
 SNAP files needed.
 1. WCC
 2. SCC
