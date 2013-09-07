@@ -20,7 +20,6 @@ Resources:
 6. 1 and 2Gram 
 
 ### Matlab Plotters
-SNAP files needed.  
 1. WCC
 2. SCC
 3. Pagerank
