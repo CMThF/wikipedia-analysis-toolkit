@@ -1,24 +1,26 @@
 wikipedia-analysis-toolkit
 ==========================
 
+WORK IN PROGRESS (as of right now - might be that nothing works :) )  
 This is a collection of Python and Matlab scripts, that are geared to simplify the analysis of wikipedia dumps (preperation for SNAP analysis and plots with Matlab)  
 Resources:  
 * Wikipedia dump files: http://dumps.wikimedia.org/backup-index.html
 * SNAP: http://snap.stanford.edu/
 * NGrams: http://books.google.com/ngrams
+* Page View Statistics: http://dumps.wikimedia.org/other/pagecounts-raw/
 
-#Included will be:
+##Included will be:
 
-## Parsers
+### Parsers
 1. Pagelinks
 2. Pages
 3. Redirects
 4. External Links
-5. Accesslogs
+5. Page views
 6. 1 and 2Gram 
 
-## Matlab Plotters
-SNAP files needed.
+### Matlab Plotters
+SNAP files needed.  
 1. WCC
 2. SCC
 3. Pagerank
